@@ -417,5 +417,7 @@
   "ftt.fail_no_vi": "很遗憾，挑战失败！\n{}",
   "_utils.noPawCoin": "您没有足够的「猫爪币」\n试试发送「签到」?",
   "ftt.exampleAnswer": "参考解法: {}\n{}",
-  "ftt.exampleAnswerSep_nb": "、"
+  "ftt.exampleAnswerSep_nb": "、",
+  "weekly.title": "XDbot2 周报 —— {}",
+  "weekly.error": "【异常】\n本周共产生 {} 个错误，相比上周增加 {}%"
 }
